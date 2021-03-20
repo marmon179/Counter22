@@ -1,6 +1,6 @@
 import React from 'react';
 import {Scoreboard} from '../Scoreboard/Scoreboard';
-import {Button} from '../Button/Button';
+import {ButtonCounter} from '../Button/ButtonCounter';
 import s from './Counter.module.css'
 
 type CounterPropsType = {
@@ -29,10 +29,10 @@ const Counter = (props: CounterPropsType) => {
             </div>
             <div className={s.containerButton}>
                 <>
-                    <Button onClick={props.incButton} title='inc'
-                            disabled={props.count === props.max || props.isError}/>
-                    <Button onClick={props.resetButton} title='reset'/>
-                    <Button onClick={props.setButton} title='set'/>
+                    <ButtonCounter onClick={props.incButton} title='inc'
+                                   disabled={props.count === props.max || props.isError}/>
+                    <ButtonCounter onClick={props.resetButton} title='reset'/>
+                    <ButtonCounter onClick={props.setButton} title='set'/>
                 </>
             </div>
         </div>

@@ -8,7 +8,7 @@ type ButtonPropsType = {
 }
 
 
-export function Button(props: ButtonPropsType) {
+export function ButtonCounter(props: ButtonPropsType) {
     return (
         <button
             className={s.button}
