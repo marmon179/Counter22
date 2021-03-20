@@ -1,0 +1,11 @@
+
+.input {
+    margin: 10px;
+
+}
+
+.error {
+    margin: 10px;
+    border:1px solid red;
+    background: rgb(181, 24, 55);
+}

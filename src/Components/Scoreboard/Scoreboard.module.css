@@ -1,0 +1,19 @@
+.error {
+    color: red;
+}
+
+.textError {
+    display: block;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.textSet {
+    display: block;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #083c94;
+}

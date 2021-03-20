@@ -1,0 +1,33 @@
+.containerCounter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    border: solid;
+    border-radius: 10px;
+    margin-top: 100px;
+    background: brown;
+}
+.scoreboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 100px;
+    margin: 10px;
+    background: #a28c8c;
+    border-radius: 5px;
+    font-size: 50px;
+
+}
+
+.containerButton {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    width: 250px;
+    height: 80px;
+    border: solid #ab9a9a;
+    border-radius: 5px;
+}
