@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Counter22/static/css/main.4e902dd9.chunk.css",
+    "main.js": "/Counter22/static/js/main.a34ed3cc.chunk.js",
+    "main.js.map": "/Counter22/static/js/main.a34ed3cc.chunk.js.map",
+    "runtime-main.js": "/Counter22/static/js/runtime-main.7b1b68ae.js",
+    "runtime-main.js.map": "/Counter22/static/js/runtime-main.7b1b68ae.js.map",
+    "static/js/2.468fed25.chunk.js": "/Counter22/static/js/2.468fed25.chunk.js",
+    "static/js/2.468fed25.chunk.js.map": "/Counter22/static/js/2.468fed25.chunk.js.map",
+    "static/js/3.69ab979a.chunk.js": "/Counter22/static/js/3.69ab979a.chunk.js",
+    "static/js/3.69ab979a.chunk.js.map": "/Counter22/static/js/3.69ab979a.chunk.js.map",
+    "index.html": "/Counter22/index.html",
+    "static/css/main.4e902dd9.chunk.css.map": "/Counter22/static/css/main.4e902dd9.chunk.css.map",
+    "static/js/2.468fed25.chunk.js.LICENSE.txt": "/Counter22/static/js/2.468fed25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b1b68ae.js",
+    "static/js/2.468fed25.chunk.js",
+    "static/css/main.4e902dd9.chunk.css",
+    "static/js/main.a34ed3cc.chunk.js"
+  ]
+}
